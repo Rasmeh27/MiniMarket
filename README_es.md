@@ -38,3 +38,6 @@ En cada interfaz, podrás agregar, modificar o eliminar datos relacionados con m
 Todos los cambios realizados en las entidades se reflejan directamente en la base de datos SQL.
 La sección Productos muestra todos los productos registrados, consolidando la información de las otras secciones.
 
+# English Version 
+
+
